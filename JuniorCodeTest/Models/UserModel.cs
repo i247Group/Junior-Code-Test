@@ -38,6 +38,7 @@
 		public string? state { get; set; }
 		public Coordinates? coordinates { get; set; }
 		public Timezone? timezone { get; set; }
+		public string? country { get; set; }
 	}
 
 	public class Login
